@@ -24,3 +24,6 @@
 
 ## Tag para la segunda version
 ![tag version final](image-8.png)
+
+## Se elimina la rama hotfix
+![hotfix eliminado](image-9.png)
