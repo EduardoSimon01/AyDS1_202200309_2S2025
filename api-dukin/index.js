@@ -1,10 +1,10 @@
 const express = require("express");
 const app = express();
 
-app.get("/api/v1/info", (req, res) => {
+app.get("/api/v2/info", (req, res) => {
   res.json({
     nombre: "Eduardo Simón",
-    cancion_favorita: "Rockstar"
+    album_favorito: "MAWZ"
   });
 });
 
